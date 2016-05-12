@@ -1,0 +1,28 @@
+name: Contemplative Skeptic
+favicon: null
+layout_spectrum: 0.5293667688965797
+typography_spectrum: 0.47073370730504394
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.47320782323367894
+  lightness: 0.025876537431031466
+  saturation: 0.45176556264050305
+  rhythmicContrast: 0.09042541356757283
+purpose: []
